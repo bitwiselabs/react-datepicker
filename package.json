@@ -1,10 +1,10 @@
 {
   "author": "HackerOne",
-  "name": "react-datepicker",
+  "name": "@jseibert/react-datepicker",
   "description": "A simple and reusable datepicker component for React",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "license": "MIT",
-  "homepage": "https://github.com/Hacker0x01/react-datepicker",
+  "homepage": "https://github.com/bitwiselabs/react-datepicker",
   "main": "lib",
   "module": "es",
   "unpkg": "dist/react-datepicker.min.js",
@@ -13,7 +13,7 @@
   "keywords": ["react", "datepicker", "calendar", "date", "react-component"],
   "repository": {
     "type": "git",
-    "url": "git://github.com/Hacker0x01/react-datepicker.git"
+    "url": "git://github.com/bitwiselabs/react-datepicker.git"
   },
   "bugs": {
     "url": "https://github.com/Hacker0x01/react-datepicker/issues"
@@ -91,7 +91,7 @@
     "classnames": "^2.2.5",
     "prop-types": "^15.6.0",
     "react-onclickoutside": "^6.7.1",
-    "react-popper": "^0.7.4"
+    "@jseibert/react-popper": "^0.7.6"
   },
   "scripts": {
     "eslint": "eslint {src,test,docs-site/src}/**/*.{js,jsx} *.js",

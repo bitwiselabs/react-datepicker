@@ -1,7 +1,7 @@
 import classnames from "classnames";
 import React from "react";
 import PropTypes from "prop-types";
-import { Manager, Target, Popper } from "react-popper";
+import { Manager, Target, Popper } from "@jseibert/react-popper";
 
 export const popperPlacementPositions = [
   "auto",
